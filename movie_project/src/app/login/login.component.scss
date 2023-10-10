@@ -28,4 +28,26 @@
         left: 50px;
         width: 400px;
     }
+    .login-form {
+        width: 500px;
+        height: 300px;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 10px;
+        position: absolute;
+        bottom: 50px;
+        right: 50px;
+        box-shadow: 5px 5px 20px #383838;
+    }
+    .form-group {
+        margin-top: 20px;
+    }
+    label {
+        font-weight: bold;
+    }
+    .btn-container {
+        .btn {
+            margin-top: 30px;
+        }
+    }
 }
